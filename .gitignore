@@ -1,0 +1,9 @@
+# Ignore large raw climate chain dataset (>1.8GB)
+cchain_raw/
+
+# Python & Environment artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
